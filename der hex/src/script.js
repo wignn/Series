@@ -111,19 +111,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 const links = [
-  "/Modern Vilain/M-I-1.html",
-  "/Demon prince/DPA-C-I.html",
-  "/Murim’s Crazy/IAMB-I-1.html",
-  "/Survival guide/TASG-I-1.html",
-  "/Modern Vilain/M-I-2.html",
-  "/Modern Vilain/M-I-3.html",
-  "/Modern Vilain/M-I-4.html",
-  "/OFP/OFP-I-1.html",
-  "/Seoul/SOS-I-1.html",
-  "/The priest/TPOC-I-1.html",
-  "/Anggel Next Door/TAND-I-1.html",
-  "/Academy’s Physicist/TMAP-I-1.html",
-  "/Survival guide/TASG-I-1.html"
+  "Modern Vilain/M-I-1.html",
+  "Demon prince/DPA-C-I.html",
+  "Murim’s Crazy/IAMB-I-1.html",
+  "Survival guide/TASG-I-1.html",
+  "Modern Vilain/M-I-2.html",
+  "Modern Vilain/M-I-3.html",
+  "Modern Vilain/M-I-4.html",
+  "OFP/OFP-I-1.html",
+  "Seoul/SOS-I-1.html",
+  "The priest/TPOC-I-1.html",
+  "Anggel Next Door/TAND-I-1.html",
+  "Academy’s Physicist/TMAP-I-1.html",
+  "Survival guide/TASG-I-1.html"
 ];
 
 function getRandomLink() {
