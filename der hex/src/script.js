@@ -134,8 +134,6 @@ function getRandomLink() {
 function handleRandomLinkButtonClick() {
   const randomLink = getRandomLink();
   window.location.href = randomLink;
-
-  document.getElementById("randomLinkButton").removeEventListener("click", handleRandomLinkButtonClick);
 }
 
 document.getElementById("randomLinkButton").addEventListener("click", handleRandomLinkButtonClick);
